@@ -13,7 +13,7 @@ Variety automatically changes the desktop background with images from configurab
   - Adapted from the [display-dhammapada](http://unicode.strangled.net/me/rch/dd.html) program's default english translation by John Richards.
 
 ## Use
-To use these files you must first install Variety. On Ubuntu you can just install via the "Software" app, or use the terminal:
+To use these files you must first install Variety. On Ubuntu you can just install via the "Software" app, or use the terminal:  
 `sudo apt-get install variety`
 
 Then place these files like so:  
