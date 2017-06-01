@@ -18,3 +18,5 @@ To use these files you must first install Variety. On Ubuntu you can just instal
 
 Then place these files like so:  
 `~.config/variety/pluginconfig/quotes/file.txt`
+
+You will have to restart Variety in order for the files to be recognized by the program.
