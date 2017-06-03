@@ -11,6 +11,8 @@ Variety automatically changes the desktop background with images from configurab
 - The Dhammapada
   - A collection of sayings of the Buddha in verse form. One of the most widely read and best known Buddhist scriptures.
   - Adapted from the [display-dhammapada](http://unicode.strangled.net/me/rch/dd.html) program's default english translation by John Richards.
+- Selections from a Compendium of Tibetan Buddhist Quotes
+  - A collection of many commonly cited quotes from Tibetan Buddhist oral teachings, selected from a curated list translated by [Adam Pearcey](https://adamspearcey.com/).
 
 ## Use
 To use these files you must first install Variety. On Ubuntu you can just install via the "Software" app, or use the terminal:  
