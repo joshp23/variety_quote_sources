@@ -1,330 +1,332 @@
-"Turn it over
+"Turn it over"
 -- Oblique Strategies
 .
-"Switch the axes
+"Switch the axes"
 -- Oblique Strategies
 .
-"Think about color
+"Think about color"
 -- Oblique Strategies
 .
-"Make it black and white
+"Make it black and white"
 -- Oblique Strategies
 .
-"Use the tangents
+"Use the tangents"
 -- Oblique Strategies
 .
-"Move across the room
+"Move across the room"
 -- Oblique Strategies
 .
-"Restart
+"Restart"
 -- Oblique Strategies
 .
-"Make it ridiculous
+"Make it ridiculous"
 -- Oblique Strategies
 .
-"Stop making sense
+"Stop making sense"
 -- Oblique Strategies
 .
-"Emphasize the side effects
+"Emphasize the side effects"
 -- Oblique Strategies
 .
-"Turn it into a game
+"Turn it into a game"
 -- Oblique Strategies
 .
-"More semicolons
+"More semicolons"
 -- Oblique Strategies
 .
-"A => AB, B => B
+"A => AB, B => B"
 -- Oblique Strategies
 .
-"Apply the Sieve of Eratosthenes
+"Apply the Sieve of Eratosthenes"
 -- Oblique Strategies
 .
-"0,1,1 => 0,0,0
+"0,1,1 => 0,0,0"
 -- Oblique Strategies
 .
-"1,0,1 => 0,1,0
+"1,0,1 => 0,1,0"
 -- Oblique Strategies
 .
-"Maybe you should use %
+"Maybe you should use %"
 -- Oblique Strategies
 .
-"Block, Beehive, Loaf, Boat
+"Block, Beehive, Loaf, Boat"
 -- Oblique Strategies
 .
-"Blinker, Toad, Beacon, Pulsar
+"Blinker, Toad, Beacon, Pulsar"
 -- Oblique Strategies
 .
-"Glider, LWSS
+"Glider, LWSS"
 -- Oblique Strategies
 .
-"The R pentomino
+"The R pentomino"
 -- Oblique Strategies
 .
-"Make the model the view
+"Make the model the view"
 -- Oblique Strategies
 .
-"Change your controller
+"Change your controller"
 -- Oblique Strategies
 .
-"Try faking it
+"Try faking it"
 -- Oblique Strategies
 .
-"State the problem in words as clearly as possible
+"State the problem in words as clearly as possible"
 -- Oblique Strategies
 .
-"Only one element of each kind
+"Only one element of each kind"
 -- Oblique Strategies
 .
-"What would your closest friend do?
+"What would your closest friend do?"
 -- Oblique Strategies
 .
-"What to increase? What to reduce?
+"What to increase? What to reduce?"
 -- Oblique Strategies
 .
-"Are there sections? Consider transitions
+"Are there sections? Consider transitions"
 -- Oblique Strategies
 .
-"Don't think. Do
+"Don't think. Do"
 -- Oblique Strategies
 .
-"But, does it float?
+"But, does it float?"
 -- Oblique Strategies
 .
-"Remove half
+"Remove half"
 -- Oblique Strategies
 .
-"0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597...
+"0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597..."
 -- Oblique Strategies
 .
-"3.1415926535897932384626433832795028...
+"3.1415926535897932384626433832795028..."
 -- Oblique Strategies
 .
-"Double the main element
+"Double the main element"
 -- Oblique Strategies
 .
-"Abandon normal instruments
+"Abandon normal instruments"
 -- Oblique Strategies
 .-- Oblique Strategies
 .
-"Accept advice
+"Accept advice"
 -- Oblique Strategies
 .
-"Accretion
+"Accretion"
 -- Oblique Strategies
 .
-"A line has two sides
+"A line has two sides"
 -- Oblique Strategies
 .
-"Balance the consistency principle with the inconsistency principle
+"Balance the consistency principle with the inconsistency principle"
 -- Oblique Strategies
 .
-"Be dirty
+"Be dirty"
 -- Oblique Strategies
 .
-"Breathe more deeply
+"Breathe more deeply"
 -- Oblique Strategies
 .
-"Bridges -build -burn
+"Bridges -build -burn"
 -- Oblique Strategies
 .
-"Cascades
+"Cascades"
 -- Oblique Strategies
 .
-"Cluster analysis
+"Cluster analysis"
 -- Oblique Strategies
 .
-"Consider different fading systems
+"Consider different fading systems"
 -- Oblique Strategies
 .
-"Courage!",
-"Cut a vital connection
+"Courage!"
 -- Oblique Strategies
 .
-"Decorate, decorate
+"Cut a vital connection"
 -- Oblique Strategies
 .
-"Define an area as 'safe' and use it as an anchor
+"Decorate, decorate"
 -- Oblique Strategies
 .
-"Destroy the most important thing
+"Define an area as 'safe' and use it as an anchor"
 -- Oblique Strategies
 .
-"Discard an axiom
+"Destroy the most important thing"
 -- Oblique Strategies
 .
-"Disconnect from desire
+"Discard an axiom"
 -- Oblique Strategies
 .
-"Discover the recipes you are using and abandon them
+"Disconnect from desire"
 -- Oblique Strategies
 .
-"Distorting time
+"Discover the recipes you are using and abandon them"
 -- Oblique Strategies
 .
-"Don't be afraid of things because they're easy to do
+"Distorting time"
 -- Oblique Strategies
 .
-"Don't be frightened of cliches
+"Don't be afraid of things because they're easy to do"
 -- Oblique Strategies
 .
-"Don't be frightened to display your talents
+"Don't be frightened of cliches"
 -- Oblique Strategies
 .
-"Don't stress one thing more than another
+"Don't be frightened to display your talents"
 -- Oblique Strategies
 .
-"Do something boring
+"Don't stress one thing more than another"
 -- Oblique Strategies
 .
-"Do the washing up
+"Do something boring"
 -- Oblique Strategies
 .
-"Do the words need changing?
+"Do the washing up"
 -- Oblique Strategies
 .
-"Do we need holes?
+"Do the words need changing?"
 -- Oblique Strategies
 .
-"Emphasize differences
+"Do we need holes?"
 -- Oblique Strategies
 .
-"Emphasize repetitions
+"Emphasize differences"
 -- Oblique Strategies
 .
-"Emphasize the flaws
+"Emphasize repetitions"
 -- Oblique Strategies
 .
-"Get your neck massaged
+"Emphasize the flaws"
 -- Oblique Strategies
 .
-"Give way to your worst impulse
+"Get your neck massaged"
 -- Oblique Strategies
 .
-"Go slowly all the way round the outside
+"Give way to your worst impulse"
 -- Oblique Strategies
 .
-"Honor thy error as a hidden intention
+"Go slowly all the way round the outside"
 -- Oblique Strategies
 .
-"How would you have done it?
+"Honor thy error as a hidden intention"
 -- Oblique Strategies
 .
-"Humanize something free of error
+"How would you have done it?"
 -- Oblique Strategies
 .
-"Infinitesimal gradations
+"Humanize something free of error"
 -- Oblique Strategies
 .
-"Into the impossible
+"Infinitesimal gradations"
 -- Oblique Strategies
 .
-"Is it finished?
+"Into the impossible"
 -- Oblique Strategies
 .
-"Is there something missing?
+"Is it finished?"
 -- Oblique Strategies
 .
-"Just carry on
+"Is there something missing?"
 -- Oblique Strategies
 .
-"Left channel, right channel, centre channel
+"Just carry on"
 -- Oblique Strategies
 .
-"Look at a very small object, look at its centre
+"Left channel, right channel, centre channel"
 -- Oblique Strategies
 .
-"Look at the order in which you do things
+"Look at a very small object, look at its centre"
 -- Oblique Strategies
 .
-"Look closely at the most embarrassing details and amplify them
+"Look at the order in which you do things"
 -- Oblique Strategies
 .
-"Make a blank valuable by putting it in an exquisite frame
+"Look closely at the most embarrassing details and amplify them"
 -- Oblique Strategies
 .
-"Make an exhaustive list of everything you might do and do the last thing on the list
+"Make a blank valuable by putting it in an exquisite frame"
 -- Oblique Strategies
 .
-"Make a sudden, destructive unpredictable action; incorporate
+"Make an exhaustive list of everything you might do and do the last thing on the list"
 -- Oblique Strategies
 .
-"Only one element of each kind
+"Make a sudden, destructive unpredictable action; incorporate"
 -- Oblique Strategies
 .
-"Remember those quiet evenings
+"Only one element of each kind"
 -- Oblique Strategies
 .
-"Remove ambiguities and convert to specifics
+"Remember those quiet evenings"
 -- Oblique Strategies
 .
-"Remove specifics and convert to ambiguities
+"Remove ambiguities and convert to specifics"
 -- Oblique Strategies
 .
-"Repetition is a form of change
+"Remove specifics and convert to ambiguities"
 -- Oblique Strategies
 .
-"Reverse
+"Repetition is a form of change"
 -- Oblique Strategies
 .
-"Simple subtraction
+"Reverse"
 -- Oblique Strategies
 .
-"Spectrum analysis
+"Simple subtraction"
 -- Oblique Strategies
 .
-"Take a break
+"Spectrum analysis"
 -- Oblique Strategies
 .
-"Take away the elements in order of apparent non-importance
+"Take a break"
 -- Oblique Strategies
 .
-"Tidy up
+"Take away the elements in order of apparent non-importance"
 -- Oblique Strategies
 .
-"Turn it upside down
+"Tidy up"
 -- Oblique Strategies
 .
-"Twist the spine
+"Turn it upside down"
 -- Oblique Strategies
 .
-"Use an old idea
+"Twist the spine"
 -- Oblique Strategies
 .
-"Use an unacceptable color
+"Use an old idea"
 -- Oblique Strategies
 .
-"Water
+"Use an unacceptable color"
 -- Oblique Strategies
 .
-"What are you really thinking about just now? Incorporate
+"Water"
 -- Oblique Strategies
 .
-"What is the reality of the situation?
+"What are you really thinking about just now? Incorporate"
 -- Oblique Strategies
 .
-"What mistakes did you make last time?
+"What is the reality of the situation?"
 -- Oblique Strategies
 .
-"What wouldn't you do?
+"What mistakes did you make last time?"
 -- Oblique Strategies
 .
-"Work at a different speed
+"What wouldn't you do?"
 -- Oblique Strategies
 .
-"Take a walk
+"Work at a different speed"
+-- Oblique Strategies
+.
+"Take a walk"
 -- Oblique Strategies
 . 
-"Take a shower
+"Take a shower"
 -- Oblique Strategies
 .
 "Look to Nature
 -- BOblique Strategies
 . 
-"Talk it through with a friend
+"Talk it through with a friend"
 -- Oblique Strategies
 .
-"Who's my audience
+"Who's my audience"
 -- Oblique Strategies
 .
 "Forget the money, make it cool."﻿
